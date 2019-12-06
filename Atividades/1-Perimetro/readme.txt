@@ -1,0 +1,1 @@
+Elaborar programa em C que forneça o perímetro das formas: circulo, quadrado e triangulo.

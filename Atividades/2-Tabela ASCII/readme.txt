@@ -1,0 +1,1 @@
+Programa para gerar arquivo com a tabela ASCII.

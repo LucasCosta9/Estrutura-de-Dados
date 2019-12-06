@@ -1,0 +1,1 @@
+Programa da alocação dinâmica e preenchimento de um vetor de estruturas
